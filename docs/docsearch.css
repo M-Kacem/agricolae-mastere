@@ -146,3 +146,7 @@
 .algolia-autocomplete .ds-suggestion.ds-cursor .algolia-docsearch-suggestion--content {
   background-color: rgba(192, 192, 192, .15)
 }
+
+.navbar-default {
+  background-color: rgb(0, 126, 73)
+}
